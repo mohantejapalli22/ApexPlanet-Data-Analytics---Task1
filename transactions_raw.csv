@@ -1,0 +1,6 @@
+CustomerID,Name,DateOfBirth,TransactionDate,Amount,ProductCategory
+101,Alice Smith,1990-05-12,2024/07/01,250.00,Electronics
+102,Bob Johnson,1985-11-30,07-02-2024,NaN,Home & Kitchen
+103,Alice Smith,1990-05-12,2024-07-01,250.00,Electronics
+104,Charlie Wong,1978-03-15,2024-07-03,120.50,electronics
+105,Dana Lee,2000-09-25,2024-07-04,-50.00,Sports & Outdoors
